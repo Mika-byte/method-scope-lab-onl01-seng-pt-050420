@@ -1,6 +1,6 @@
 def rescue_princess_peach
   status = "rescued"
-  puts 
+  puts rescue_princess_peach
 
 ## Comment the below back in to see method scope in action!
 
